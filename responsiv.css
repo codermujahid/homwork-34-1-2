@@ -1,0 +1,114 @@
+@media (max-width:1520px){
+    .fixed-with {
+        width: 100%;
+        max-width: 100%;
+        margin: auto;
+    }
+    .banar {
+        padding: 166px;
+    }
+}
+@media (max-width:1220px){
+    .banar {
+        padding: 119px;
+    }
+}
+
+
+@media (max-width:866px){
+    .header-left {
+        text-align: center;
+        width: 100%;
+    }
+
+    .header-right ul{
+        text-align: center;
+        width: 100%;
+    }
+    .header-right ul li a {
+        
+        font-size: 18px;
+        padding: 0 20px;
+    
+    }
+    .banar {
+         
+        padding: 59px 0;
+        
+    }
+
+    .banar-caption h2 {
+         
+        padding: 10px 26px;
+        font-size: 21px;
+         
+    }
+    .banar-caption h1 {
+        max-width: 375px;
+        font-size: 25px;
+        padding: 4px 0px;
+        margin-top: 12px;
+    }
+    .blog-left-notifation {
+        
+        width: 100%;
+    }
+    .blog-left-content {
+        width: 100%;
+    }
+ 
+    .footer-left {
+         text-align: center;
+        width: 100%;
+    }
+    .footer-right {
+        width: 100%;
+         
+    }
+    .socyel-manu {
+         
+        text-align: center;
+    }
+}
+
+
+
+@media (max-width:786px){
+    .sarvices-item h3 {
+         
+        font-size: 19px;
+    }
+
+   
+}
+
+
+
+@media (max-width:566px){
+    .banar {
+        padding: 14px 0;
+    }
+    .sarvices-item h3 {
+        font-size: 25px;
+    }
+    .sarvices-item {
+       
+        width: 100%;
+       
+        margin: 10px 0;
+    }
+  
+}
+
+
+
+@media (max-width:480px){
+
+    .header-right ul li a {
+        font-size: 18px;
+        padding: 0px 6px;
+    }
+    /* .sarvices-item h3 {
+        font-size: 10px;
+    } */
+}
